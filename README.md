@@ -71,6 +71,3 @@ To start the backend
 ### Open the program
 
 Once `npm start` is run, the site should be launched in your default browser, but in the instance that it's not, navigate to `http://localhost:3000`
-#� �c�o�m�p�3�9�0�0�
-�
-�
