@@ -1,4 +1,4 @@
-# F1v3guy5 Recipe Recommendation S ystem
+# F1v3guy5 Recipe Recommendation System
 
 ### Google Drive
 https://drive.google.com/drive/folders/1gRJpRURyTGFYxh-9HWNVDomvBb3JXgL1?usp=sharing
